@@ -10,5 +10,11 @@ sfsf
 sfsfs
 er
 
+<<<<<<< HEAD
 
 opis
+=======
+## licencja 
+hoiio
+MID
+>>>>>>> licencja
