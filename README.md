@@ -9,3 +9,7 @@ sdsfs
 sfsf
 sfsfs
 er
+
+## licencja 
+hoiio
+MID
