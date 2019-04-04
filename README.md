@@ -18,3 +18,5 @@ opis
 hoiio
 MID
 >>>>>>> licencja
+
+zmiana
